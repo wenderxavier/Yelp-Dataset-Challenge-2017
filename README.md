@@ -33,8 +33,7 @@ There are many works that use the Yelp dataset here we will discuss some of then
 
 - _Improving business rating predictions using graph based features_ from Amit Tiroshi, Shlomo Berkovsky, Mohamed Ali Kaafar, David Vallet, Terence Chen and Tsvi Kuflik use graph to represent the data in order to generate and automatically populate features, with that was discovered that have more accurate and robust predictions
 
-
-
+- _Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes_ by Kevin Hung and Henry Qiu created a analysis of the Yelp Dataset from 2014 and use Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes
 
 
 
