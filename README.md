@@ -8,12 +8,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Yelp Database
 
-In 2014 Yelp started the _Yelp Dataset Challenge_, they provided a dataset in SQL and JSON containing a subset of their businesses, reviews, and user. The challenge is to encourage students to research and analyse the data. Now the challenge is on round 10 with updated data so it have 4,700,000 reviews, 156,000 businesses, 200.000 pictures, 12 metropolitan areas from 4 countries and many others.
+In 2014 Yelp started the _Yelp Dataset Challenge_, they provided a dataset in SQL and JSON containing a subset of their businesses, reviews, and user. The challenge is to encourage students to research and analyse the data. Now the challenge is on round 10 with updated data of 2017 with:
+- 4,700,000 reviews
+- 156,000 businesses
+- 200.000 pictures
+- 12 metropolitan areas from 4 countries
 
 ### Database Analyses
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/1.embed"></iframe>
+<iframe width="1200" height="800" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/1.embed"></iframe>
 
 ### Support or Contacts
 
