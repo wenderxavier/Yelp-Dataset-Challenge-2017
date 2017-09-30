@@ -13,7 +13,7 @@ In 2014 Yelp started the _Yelp Dataset Challenge_, they provided a dataset in SQ
 ### Database Analyses
 
 
-<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/1.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/1.embed"></iframe>
 
 ### Support or Contacts
 
