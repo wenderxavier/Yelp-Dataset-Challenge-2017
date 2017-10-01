@@ -55,6 +55,8 @@ There are many works that use the Yelp dataset here we will discuss some of then
 
 ## Graphs
 
+Graph of where each node is a user with more then 3 reviews and the edges are if they reviewed the same business from Phoenix city. 
+
 ![screenshot_100617](https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png)
 
 
