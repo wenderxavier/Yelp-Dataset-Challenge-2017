@@ -20,24 +20,6 @@ In 2014 Yelp started the _Yelp Dataset Challenge_, they provided a dataset in SQ
 ### Database Analysis
 Here are some analysis of the data :
 
-<iframe width="900" height="1250" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/1.embed"></iframe>
-
-## Works that use the Dataset
-There are many works that use the Yelp dataset here we will discuss some of then
-
-- _Inferring Future Business Attention_ from Bryan Hood, Victor Hwang and Jennifer King is discussed the use of regression models and sentiment analysis to infer the future business attention
-
-- _Hidden Factors and Hidden Topics: Understanding Rating Dimensions with Review Text_ by Julian McAuley and Jure Leskovec use latent factor model for predicting ratings with LDA for topic modeling to retrive topics and those were found to correspond to genres or categories
-
-- _Centrality and Cluster Analysis of Yelp Mutual Customer Business Graph_ by Brian McClanahan and Swapna S. Gokhale does a study of centrality and clustering in a customer graph shared between business
-
-- _Improving business rating predictions using graph based features_ from Amit Tiroshi, Shlomo Berkovsky, Mohamed Ali Kaafar, David Vallet, Terence Chen and Tsvi Kuflik use graph to represent the data in order to generate and automatically populate features, with that was discovered that have more accurate and robust predictions
-
-- _Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes_ by Kevin Hung and Henry Qiu created a analysis of the Yelp Dataset from 2014 and use Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes
-
-
-## Graphs
-
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/58.embed"></iframe>
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/60.embed"></iframe>
@@ -57,5 +39,24 @@ There are many works that use the Yelp dataset here we will discuss some of then
 <iframe width="700" height="500" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/72.embed"></iframe>
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/80.embed"></iframe>
+
+
+## Works that use the Dataset
+There are many works that use the Yelp dataset here we will discuss some of then
+
+- _Inferring Future Business Attention_ from Bryan Hood, Victor Hwang and Jennifer King is discussed the use of regression models and sentiment analysis to infer the future business attention
+
+- _Hidden Factors and Hidden Topics: Understanding Rating Dimensions with Review Text_ by Julian McAuley and Jure Leskovec use latent factor model for predicting ratings with LDA for topic modeling to retrive topics and those were found to correspond to genres or categories
+
+- _Centrality and Cluster Analysis of Yelp Mutual Customer Business Graph_ by Brian McClanahan and Swapna S. Gokhale does a study of centrality and clustering in a customer graph shared between business
+
+- _Improving business rating predictions using graph based features_ from Amit Tiroshi, Shlomo Berkovsky, Mohamed Ali Kaafar, David Vallet, Terence Chen and Tsvi Kuflik use graph to represent the data in order to generate and automatically populate features, with that was discovered that have more accurate and robust predictions
+
+- _Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes_ by Kevin Hung and Henry Qiu created a analysis of the Yelp Dataset from 2014 and use Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes
+
+
+## Graphs
+
+<iframe width="700" height="400" frameborder="0" scrolling="no" src=https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png"></iframe>
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
