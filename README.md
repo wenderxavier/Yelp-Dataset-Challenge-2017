@@ -57,6 +57,7 @@ There are many works that use the Yelp dataset here we will discuss some of then
 
 ## Graphs
 
-<iframe width="700" height="400" frameborder="0" scrolling="no" src=https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png"></iframe>
+![screenshot_100617](https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png)
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
