@@ -55,4 +55,7 @@ There are many works that use the Yelp dataset here we will discuss some of then
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/74.embed"></iframe>
 
 <iframe width="700" height="500" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/72.embed"></iframe>
+
+<iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/80.embed"></iframe>
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
