@@ -2,9 +2,7 @@ Mateus Parreiras Silveira and Wender Xavier
 
 ## Introduction
 
-You can use the [editor on GitHub](https://github.com/wenderxavier/Yelp-Dataset-Challenge-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are a enormous amout of data being collected by numerous aplications. One exeple of those is Yelp a app where people review business. In this case the data can be used to identifi various patterns, like group of people that go on the same business, how a event(Cristmas, Thanksgiven, Super Bowl) can change the way people review and move on the city. With that in mind we aim to use the data disponibilize by Yelp to find those patterns and explain then.
 
 ## Yelp Database
 
