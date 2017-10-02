@@ -53,6 +53,8 @@ There are many works that use the Yelp dataset here we will discuss some of then
 - _Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes_ by Kevin Hung and Henry Qiu created a analysis of the Yelp Dataset from 2014 and use Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes
 
 
+<img src='images/17_01.png' class='inline'/>
+
 ## Graphs
 
 Graph of where each node is a user with more then 3 reviews and the edges are if they reviewed the same business from Phoenix city. 
