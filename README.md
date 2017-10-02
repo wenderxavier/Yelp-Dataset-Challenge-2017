@@ -1,4 +1,4 @@
-### Access this website through: https://goo.gl/2PyidP to follow along with the presentation
+ Access this website through: <b> https://goo.gl/2PyidP </b> to follow along with the presentation
 
 The authors of the following preliminary tests on the Yelp! Database are Mateus Parreiras Silveira and Wender Xavier.
 
@@ -32,11 +32,12 @@ In 2014 Yelp started the _Yelp Dataset Challenge_, they provided a dataset in SQ
 - Aggregated check-ins over time for each of the 156,000 businesses
 
 ### Database Analysis
-Here are some analysis of the data :
+The Yelp! dataset contains reviews of many cities and metropolitan areas. In order to get a sample containing most reviews, users and busines of a city, we performed the following analisys on the dataset.
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/58.embed"></iframe>
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/60.embed"></iframe>
+_Comentário Wender: Tips são utilizados na base do Yelp! como dicas em relação à algum estabelecimento, ex: "Restaurante cheio durante o horário de almoço / Estacionamento Privativo pago", enquanto Reviews se referem à experiência do usuário no estabelecimento_
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/62.embed"></iframe>
 
