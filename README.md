@@ -50,17 +50,29 @@ _Comentário Wender: Considerando as análises acima, nossas futuras análises s
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/64.embed"></iframe>
 
+_Comentário Wender: Caso um usuário tenha postado um Review/Tip sobre mais de um restaurante podemos considerar essa informação como movimento. Grande parte dos usuários (53%) postaram somente um Review, o que poderia dificultar esta análise. Além disto, a maior parte dos usuários postam somente um Review de cada restaurante que vão, e mesmo voltando ao restaurante futuramente não têm o hábito de postar novos Reviews. Foi verificado que alguns usuários postaram Review sobre restaurantes de diferentes cidades e países. O usuário com maior número de Reviews postados postou pouco mais de 350 Reviews._
+
 <iframe width="700" height="600" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/66.embed"></iframe>
 
+_Comentário Wender: Os comentários dos usuários recebem estrelas que variam entre 1 e 5. Nos ultimos anos pode-se ver uma tendência dos usuários postarem somente 5,4 ou 1 estrela para o estabelecimento. O número de reviews postados, principalmente o de 5 estrelas, segue uma tendência bem definida. Nos meses de Nov-Dez há uma diminuição do número de Reviews com nota 5, seguido de um aumento no mês de Jan, uma pequena diminuição em Fev, e em seguida alcançando o pico em Jul-Ago. Tal informação pode estar associado à eventos ou períodos de férias. Estes padrões serão investigadas futuramente._
+
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/68.embed"></iframe>
+
+_Comentário Wender: Uma vez que um usuário posta um Review, outros usuários podem marcá-lo como Useful e Funny. Visualizando a distribuição dos posts, percebe-se que os Reviews com o maior número marcados como Useful possuem 1-2 estrelas (Vide grafo abaixo). Análises aprofundadas neste reviews podem apresentar padrões ou características que fazem com que elas possuem um alto número de aceitação do público, e que possam ser replicadas em outros comentários para também ter esse alto número de marcações de útil._
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/70.embed"></iframe>
 
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/80.embed"></iframe>
 
+_Comentário Wender: Padrões de comportamento humano alteram-se durante alguns eventos de larga escala (e.g. Jogos de Futebol, Shows, etc.) Um grande espetáculo que ocorre todos os anos é o Super Bowl, a final do campeonato de futebol americano nos EUA. Todos os anos esse evento tem o maior número de espectadores no planeta, e vários bares e restaurantes nos EUA transmitem o jogo para atrair fãs consumidores. Em uma pesquisa rápida na base de dados, verificamos que alguns comentários (+1000) possuiam palavras chaves que remetiam ao jogo (ex: 'Super Bowl'). Uma vez que usuários podem ter postado reviews em dias seguintes ao jogo e não necessariamente no dia do ocorrido, agregamos informações de Dom-Qui sento Domingo o dia do Super Bowl, e Seg-Qui dias em que os usuários podem ter postado reviews. Uma das perguntas a serem respondidas é: Como os padrões de visitação e comentários se alteram em relação à semanas rotineiras e em eventos/feriados (e.g: Thanksgivin e Super Bowl)?
 
+Abaixo apresentamos um Word-Cloud da semana do NFL/2017 dos Reviews de acordo com o número de estrelas dadas._
 
+<img src='images/17_05.png' class='inline'/>
+<img src='images/17_04.png' class='inline'/>
+<img src='images/17_03.png' class='inline'/>
+<img src='images/17_02.png' class='inline'/>
 <img src='images/17_01.png' class='inline'/>
 
 ## Graphs
@@ -68,6 +80,3 @@ _Comentário Wender: Considerando as análises acima, nossas futuras análises s
 Graph of where each node is a user with more then 3 reviews and the edges are if they reviewed the same business from Phoenix city. 
 
 ![screenshot_100617](https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png)
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
