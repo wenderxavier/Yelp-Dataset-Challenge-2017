@@ -1,8 +1,24 @@
-Mateus Parreiras Silveira and Wender Xavier
+### Access this website through: https://goo.gl/2PyidP to follow along with the presentation
+
+The authors of the following preliminary tests on the Yelp! Database are Mateus Parreiras Silveira and Wender Xavier.
 
 ## Introduction
 
-There are a enormous amout of data being collected by numerous aplications. One exeple of those is Yelp a app where people review business. In this case the data can be used to identifi various patterns, like group of people that go on the same business, how a event(Cristmas, Thanksgiven, Super Bowl) can change the way people review and move on the city. With that in mind we aim to use the data disponibilize by Yelp to find those patterns and explain then.
+We're in the data era! Enormous amounts of data are being collected and stored by a wide range of applications and many of these are human-generated data which contains information regarding human behavior. The amount of generated data creates a challenge on processing and obtaining valuable information to enhance services and products. Companies trying to improve its services often make part of its stored data available, so users from all over the world can access and propose improvement of services as well as point out hidden patterns on the data. This work present some initial analisys on the Yelp! Dataset. Yelp! is a company which provides local search of business, business ratings and reviews and online food delivery. It works with crowdsourcing model where users goes to business and publish their review of it.
+
+## Related Works
+There are many works that use the Yelp! dataset. Here we will discuss some of then.
+
+- _Inferring Future Business Attention_ from Bryan Hood, Victor Hwang and Jennifer King discussed the use of regression models and sentiment analysis to infer the future business attention.
+
+- _Hidden Factors and Hidden Topics: Understanding Rating Dimensions with Review Text_ by Julian McAuley and Jure Leskovec use latent factor model for predicting ratings with LDA for topic modeling to retrive topics and those were found to correspond to genres or categories
+
+- _Centrality and Cluster Analysis of Yelp Mutual Customer Business Graph_ by Brian McClanahan and Swapna S. Gokhale does a study of centrality and clustering in a customer graph shared between business.
+
+- _Improving business rating predictions using graph based features_ from Amit Tiroshi, Shlomo Berkovsky, Mohamed Ali Kaafar, David Vallet, Terence Chen and Tsvi Kuflik use graph to represent the data in order to generate and automatically populate features, with that was discovered that have more accurate and robust predictions
+
+- _Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes_ by Kevin Hung and Henry Qiu created an analysis of the Yelp! Dataset from 2014 and use Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes
+
 
 ## Yelp Database
 
@@ -38,19 +54,6 @@ Here are some analysis of the data :
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/80.embed"></iframe>
 
-
-## Works that use the Dataset
-There are many works that use the Yelp dataset here we will discuss some of then
-
-- _Inferring Future Business Attention_ from Bryan Hood, Victor Hwang and Jennifer King is discussed the use of regression models and sentiment analysis to infer the future business attention
-
-- _Hidden Factors and Hidden Topics: Understanding Rating Dimensions with Review Text_ by Julian McAuley and Jure Leskovec use latent factor model for predicting ratings with LDA for topic modeling to retrive topics and those were found to correspond to genres or categories
-
-- _Centrality and Cluster Analysis of Yelp Mutual Customer Business Graph_ by Brian McClanahan and Swapna S. Gokhale does a study of centrality and clustering in a customer graph shared between business
-
-- _Improving business rating predictions using graph based features_ from Amit Tiroshi, Shlomo Berkovsky, Mohamed Ali Kaafar, David Vallet, Terence Chen and Tsvi Kuflik use graph to represent the data in order to generate and automatically populate features, with that was discovered that have more accurate and robust predictions
-
-- _Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes_ by Kevin Hung and Henry Qiu created a analysis of the Yelp Dataset from 2014 and use Oversampling with Bigram Multinomial Naive Bayes to Predict Yelp Review Star Classes
 
 
 <img src='images/17_01.png' class='inline'/>
