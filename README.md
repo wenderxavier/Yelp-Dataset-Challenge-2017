@@ -80,3 +80,8 @@ Abaixo apresentamos um Word-Cloud da semana do NFL/2017 dos Reviews de acordo co
 Graph of where each node is a user with more then 3 reviews and the edges are if they reviewed the same business from Phoenix city. 
 
 ![screenshot_100617](https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png)
+
+Node: Business
+Edge: People who visited both business
+City: Phoenix City
+<img src='images/graph.png' class='inline'/>
