@@ -42,6 +42,12 @@ _Comentário Wender: Tips são utilizados na base do Yelp! como dicas em relaç�
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/62.embed"></iframe>
 
+_Comentário Wender: A base de dados do Yelp! contém informações de Check-in, porém somente o valor agregado do número de pessoas que visitaram o local. Considerando que todas as pessoas que postaram um Review ou Tip estiveram no estabelecimento, utilizamos essa informação para saber o número de usuários na cidade_
+
+<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/72.embed"></iframe>
+
+_Comentário Wender: Considerando as análises acima, nossas futuras análises serão aplicadas utilizando informações das cidades de Las Vegas (EUA), Phoenix (EUA) e Toronto (CAN) pois contém maior número de informações de estabelecimentos e usuários._
+
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/64.embed"></iframe>
 
 <iframe width="700" height="600" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/66.embed"></iframe>
@@ -50,9 +56,6 @@ _Comentário Wender: Tips são utilizados na base do Yelp! como dicas em relaç�
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/70.embed"></iframe>
 
-<iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/74.embed"></iframe>
-
-<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/72.embed"></iframe>
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/80.embed"></iframe>
 
