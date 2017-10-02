@@ -65,9 +65,9 @@ _Comentário Wender: Uma vez que um usuário posta um Review, outros usuários p
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wenderxavier/80.embed"></iframe>
 
-_Comentário Wender: Padrões de comportamento humano alteram-se durante alguns eventos de larga escala (e.g. Jogos de Futebol, Shows, etc.) Um grande espetáculo que ocorre todos os anos é o Super Bowl, a final do campeonato de futebol americano nos EUA. Todos os anos esse evento tem o maior número de espectadores no planeta, e vários bares e restaurantes nos EUA transmitem o jogo para atrair fãs consumidores. Em uma pesquisa rápida na base de dados, verificamos que alguns comentários (+1000) possuiam palavras chaves que remetiam ao jogo (ex: 'Super Bowl'). Uma vez que usuários podem ter postado reviews em dias seguintes ao jogo e não necessariamente no dia do ocorrido, agregamos informações de Dom-Qui sento Domingo o dia do Super Bowl, e Seg-Qui dias em que os usuários podem ter postado reviews. Uma das perguntas a serem respondidas é: Como os padrões de visitação e comentários se alteram em relação à semanas rotineiras e em eventos/feriados (e.g: Thanksgivin e Super Bowl)?
+_Comentário Wender: Padrões de comportamento humano alteram-se durante alguns eventos de larga escala (e.g. Jogos de Futebol, Shows, etc.) Um grande espetáculo que ocorre todos os anos é o Super Bowl, a final do campeonato de futebol americano nos EUA. Todos os anos esse evento tem o maior número de espectadores no planeta, e vários bares e restaurantes nos EUA transmitem o jogo para atrair fãs consumidores. Em uma pesquisa rápida na base de dados, verificamos que alguns comentários (+1000) possuiam palavras chaves que remetiam ao jogo (ex: 'Super Bowl'). Uma vez que usuários podem ter postado reviews em dias seguintes ao jogo e não necessariamente no dia do ocorrido, agregamos informações de Dom-Qui sento Domingo o dia do Super Bowl, e Seg-Qui dias em que os usuários podem ter postado reviews. Uma das perguntas a serem respondidas é: Como os padrões de visitação e comentários se alteram em relação à semanas rotineiras e em eventos/feriados (e.g: Thanksgivin e Super Bowl)?_
 
-Abaixo apresentamos um Word-Cloud da semana do NFL/2017 dos Reviews de acordo com o número de estrelas dadas._
+_Abaixo apresentamos um Word-Cloud da semana do NFL/2017 dos Reviews de acordo com o número de estrelas dadas._
 
 <img src='images/17_05.png' class='inline'/>
 <img src='images/17_04.png' class='inline'/>
@@ -82,6 +82,9 @@ Graph of where each node is a user with more then 3 reviews and the edges are if
 ![screenshot_100617](https://user-images.githubusercontent.com/11721226/31059913-93cf00d2-a6df-11e7-8f9b-f153661a4fa0.png)
 
 Node: Business
+
 Edge: People who visited both business
+
 City: Phoenix City
+
 <img src='images/graph.png' class='inline'/>
